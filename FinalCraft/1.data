@@ -1,0 +1,14 @@
+{
+    "Hero":[
+        {
+            "Hps":"5", 
+            "Hp":5, 
+            "Powers":"2", 
+            "Power":2, 
+            "Levels":"2", 
+            "Level":2, 
+            "SuccessLevels":"1", 
+            "SuccessLevel":1
+        }
+    ]
+}
